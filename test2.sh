@@ -1,4 +1,3 @@
-!#/bin/bash
 
 result=`grep "Hello World 1" index.php | wc -l`
 echo $result
